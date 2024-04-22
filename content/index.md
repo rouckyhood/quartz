@@ -28,6 +28,6 @@ Votre propre serveur de messagerie associé à votre nom de domaine pour garanti
 > Yes!, they can. And collapsed!
 
 ><details>
-><summary>Click to expand</summary>
+><summary>[!test] 🌐 Réseaux</summary>
 >Votre identité sur Internet commence par le choix d'un nom de domaine. Microlinux vous conseille et prend en charge la configuration de A à Z.
 ></details>
