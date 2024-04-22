@@ -62,6 +62,12 @@
     --callout-icon: var(--callout-icon-tip);
   }
 
+    &[data-callout="test"] {
+    --color: #00bfa5;
+    --border: #00bfa544;
+    --bg: #00bfa510;
+  }
+  
   &[data-callout="success"] {
     --color: #09ad7a;
     --border: #09ad7144;
