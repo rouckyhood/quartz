@@ -22,3 +22,9 @@ You can add an image or a code block, too.
 ```
 
 </details>
+<details>
+<summary>🌐 Réseaux</summary>
+
+BODY CONTENT
+
+</details>
