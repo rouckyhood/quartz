@@ -15,7 +15,8 @@ BODY CONTENT
 > 
 > This is a callout!
 <details>
-> [!info] <summary> 🌐 Réseaux</summary>
+> [!info]
+>  <summary> 🌐 Réseaux</summary>
 > 
 > This is a callout!
 </details>
