@@ -25,12 +25,8 @@ Votre propre serveur de messagerie associé à votre nom de domaine pour garanti
 > 
 > This is a callout!
 
-<details>
-<summary> [!test] 🌐 Réseaux</summary>
-Votre propre serveur de messagerie associé à votre nom de domaine pour garantir la sécurité de vos mails à l'abri des regards indiscrets.
-</details>
-
-<details>
-<summary> 🌐 Réseaux</summary>
-BODY CONTENT
-</details>
+> [!test]+ Can callouts be _nested_?
+>
+> > [!todo]- Yes!, they can. And collapsed!
+> >
+> > > [!example] You can even use multiple layers of nesting.
