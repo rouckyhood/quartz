@@ -7,6 +7,10 @@ title: Prestations Informatiques et Services
 ### 🛡️ Sécurité
 ### 🛠️ Maintenance
 <details>
-<summary>### 🌐 Réseaux</summary>
+<summary> 🌐 Réseaux</summary>
 BODY CONTENT
 </details>
+
+> [!info] Title
+> 
+> This is a callout!
