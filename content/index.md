@@ -23,6 +23,4 @@ BODY CONTENT
 
 ## <center>Test</center>
 
-```
-## <center>Test</center>
-``` 
+## <center>Test
