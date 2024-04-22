@@ -20,3 +20,7 @@ Votre propre serveur de messagerie associé à votre nom de domaine pour garanti
 > [!info] Title
 > 
 > This is a callout!
+
+> [!] Title
+> 
+> This is a callout!
