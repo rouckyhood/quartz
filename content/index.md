@@ -2,10 +2,10 @@
 title: Prestations Informatiques et Services
 ---
 
-### 🌐 Réseaux
-### 📧 Messagerie
-### 🛡️ Sécurité
-### 🛠️ Maintenance
+### <center>🌐 Réseaux
+### <center>📧 Messagerie
+### <center>🛡️ Sécurité
+### <center>🛠️ Maintenance
 <details>
 <summary> 🌐 Réseaux</summary>
 BODY CONTENT
