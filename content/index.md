@@ -25,6 +25,4 @@ Votre propre serveur de messagerie associé à votre nom de domaine pour garanti
 > This is a callout!
 
 > 🌐 Réseaux
->
-> - Yes!, they can. And collapsed!
->
+> Yes!, they can. And collapsed!
