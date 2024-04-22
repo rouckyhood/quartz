@@ -21,6 +21,6 @@ Votre propre serveur de messagerie associé à votre nom de domaine pour garanti
 > 
 > This is a callout!
 
-> [!] Title
+> [!] 🌐 Réseaux<
 > 
 > This is a callout!
