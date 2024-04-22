@@ -27,6 +27,4 @@ Votre propre serveur de messagerie associé à votre nom de domaine pour garanti
 
 > [!test]+ Can callouts be _nested_?
 >
-> > [!todo]- Yes!, they can. And collapsed!
-> >
-> > > [!example] You can even use multiple layers of nesting.
+> > - Yes!, they can. And collapsed!
