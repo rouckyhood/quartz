@@ -24,3 +24,8 @@ Votre propre serveur de messagerie associé à votre nom de domaine pour garanti
 > [!test] 🌐 Réseaux
 > 
 > This is a callout!
+
+<details>
+<summary>> [!test] 🌐 Réseaux</summary>
+>Votre propre serveur de messagerie associé à votre nom de domaine pour garantir la sécurité de vos mails à l'abri des regards indiscrets.
+</details>
