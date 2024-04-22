@@ -33,7 +33,7 @@
     --color: #448aff;
     --border: #448aff44;
     --bg: #448aff10;
-//    --callout-icon: var(--callout-icon-note);
+#    --callout-icon: var(--callout-icon-note);
   }
 
   &[data-callout="abstract"] {
@@ -66,7 +66,6 @@
     --color: #00b0ff;
     --border: #00b0ff44;
     --bg: #00b0ff10;
-    --callout-icon: 🌐;
   }
   
   &[data-callout="success"] {
