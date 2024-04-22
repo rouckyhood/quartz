@@ -2,6 +2,7 @@
 title: Prestations Informatiques et Services
 ---
 
+### 🌐 Réseaux
 ### 📧 Messagerie
-### 🛡️ Sécuriser vos installations informatiques et prévenir tout incident 
+### 🛡️ Sécurité
 ### 🛠️ Maintenance
