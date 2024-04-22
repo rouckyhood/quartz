@@ -24,7 +24,7 @@ Votre propre serveur de messagerie associé à votre nom de domaine pour garanti
 > [!test] 🌐 Réseaux
 > This is a callout!
 
-> [!test]+ Can callouts be _nested_?
+> 🌐 Réseaux
 >
 > - Yes!, they can. And collapsed!
 >
