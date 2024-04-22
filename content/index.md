@@ -2,25 +2,8 @@
 title: Prestations Informatiques et Services
 ---
 
-### <center>🌐 Réseaux
-### <center>📧 Messagerie
-### <center>🛡️ Sécurité
-### <center>🛠️ Maintenance
-<details>
-<summary> 🌐 Réseaux</summary>
-BODY CONTENT
-</details>
+### 🌐 Réseaux
+### 📧 Messagerie
+### 🛡️ Sécurité
+### 🛠️ Maintenance
 
-> [!info] Title
-> 
-> This is a callout!
-<details>
-> [!info]
->  <summary> 🌐 Réseaux</summary>
-> 
-> This is a callout!
-</details>
-
-## <center>Test</center>
-
-## <center>Test
