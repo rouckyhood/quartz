@@ -29,3 +29,8 @@ Votre propre serveur de messagerie associé à votre nom de domaine pour garanti
 <summary> [!test] 🌐 Réseaux</summary>
 Votre propre serveur de messagerie associé à votre nom de domaine pour garantir la sécurité de vos mails à l'abri des regards indiscrets.
 </details>
+
+<details>
+<summary> 🌐 Réseaux</summary>
+BODY CONTENT
+</details>
