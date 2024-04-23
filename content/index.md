@@ -11,3 +11,6 @@ Votre propre serveur de messagerie associé à votre nom de domaine pour garanti
 ### 🛡️ Sécurité
 
 ### 🛠️ Maintenance
+
+> [!network]
+> Default title
